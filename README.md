@@ -93,4 +93,4 @@ This project demonstrates a structured approach to manual testing of a web appli
 
 ## Author
 Parth Satish Dangare
-Junior QA / SDET Aspirant
+(Junior QA / SDET Aspirant)
